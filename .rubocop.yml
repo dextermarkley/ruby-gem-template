@@ -1,0 +1,12 @@
+Metrics/LineLength:
+  Enabled: false
+Style/IndentHash:
+  EnforcedStyle: consistent
+Metrics/AbcSize:
+  Max: 35
+Metrics/MethodLength:
+  Max: 22
+Metrics/ClassLength:
+  Max: 250
+Metrics/CyclomaticComplexity:
+  Max: 8
